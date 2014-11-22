@@ -17,6 +17,9 @@ namespace WPF_Tutorial
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// 
+    /// Creating the tutorial from:
+    /// http://msdn.microsoft.com/en-us/library/jj153219.aspx
     /// </summary>
     public partial class MainWindow : Window
     {
